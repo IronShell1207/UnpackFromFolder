@@ -28,7 +28,7 @@ namespace UnpackFromFolder
             FolderReplaces(pathC);
             Console.WriteLine("Press any button to close the app");
             Console.ReadKey();
-        }
+        }// 
         static string BrouseFolder()
         {
             FolderBrowserDialog dc = new FolderBrowserDialog
